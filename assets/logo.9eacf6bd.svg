@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6dcff6;
+        stroke: #4d4a59;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        font-size: 150px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Quicksand;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <circle class="cls-1" cx="100" cy="100" r="88"/>
+    <text id="K" class="cls-2" x="97" y="153">K</text>
+  </g>
+</svg>
