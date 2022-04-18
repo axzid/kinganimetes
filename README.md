@@ -1,0 +1,2 @@
+# kinganimetes
+static file kinganime
