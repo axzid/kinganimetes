@@ -3,3 +3,5 @@
 build with 
 font end : reactjs, tailwindcss
 backend: nodejs
+
+### kapan kapan akan di remake versi nextJS biar keren
